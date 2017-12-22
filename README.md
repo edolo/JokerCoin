@@ -1,9 +1,9 @@
 Joker Core integration/staging tree
 =====================================
 
-[![Build Status](https://travis-ci.org/litecoin-project/litecoin.svg?branch=master)](https://travis-ci.org/litecoin-project/litecoin)
+[![Build Status](https://travis-ci.org/JokerCoin-project/JokerCoin.svg?branch=master)](https://travis-ci.org/JokerCoin-project/JokerCoin)
 
-https://litecoin.org
+https://JokerCoin.org
 
 What is JokerCoin?
 ----------------
@@ -15,12 +15,12 @@ out collectively by the network. Joker Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Litecoin Core software, see [https://litecoin.org](https://litecoin.org).
+the JokerCoin Core software, see [https://JokerCoin.org](https://JokerCoin.org).
 
 License
 -------
 
-Litecoin Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
+JokerCoin Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
 information or see https://opensource.org/licenses/MIT.
 
 Development Process
@@ -32,7 +32,7 @@ regularly to indicate new official, stable release versions of Joker Core.
 
 The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md).
 
-The developer [mailing list](https://groups.google.com/forum/#!forum/litecoin-dev)
+The developer [mailing list](https://groups.google.com/forum/#!forum/JokerCoin-dev)
 should be used to discuss complicated or controversial changes before working
 on a patch set.
 
